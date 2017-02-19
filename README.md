@@ -1,4 +1,5 @@
 # Useful Batch Files
+## Remember to add folder to your PATH so you can use your files anywhere!!
 
 ## gitbat.bat
 ### Purpose: git add --all, git commit -m, git push all in one
@@ -10,5 +11,5 @@
 ## setupgit.bat
 ### Purpose: initialize a git repository
 * Usage: setupgit \<p1\>
-* Parameter 1: name of repository, \(no spaces\)
+* Parameter 1: name of repository \(no spaces\)
 * Note: Should be pretty straightforward
