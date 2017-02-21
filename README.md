@@ -14,8 +14,8 @@
 * Parameter 1: name of repository \(no spaces\)
 * Note: Should be pretty straightforward
 
-## remgitbr.bat
+## rmgitbr.bat
 ### Purpose: delete a finished branch remotely and locally, then recreate the branch
-* Usage: gitrembr \<p1\>
+* Usage: rmgitbr \<p1\>
 * Parameter 1: name of branch \(no spaces\)
 * Note: deletes branch then checks out and creates branch again.
