@@ -12,7 +12,7 @@
 ### Purpose: initialize a git repository
 * Usage: setupgit \<p1\>
 * Parameter 1: name of repository \(no spaces\)
-* Note: Should be pretty straightforward
+* Note: Should be pretty straightforward, make sure you are in the directory you want to create a new repo.  I think you may have to initialize a repository of the same name from github first, not tested yet
 
 ## rmgitbr.bat
 ### Purpose: delete a finished branch remotely and locally, then recreate the branch
