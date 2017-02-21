@@ -19,3 +19,8 @@
 * Usage: rmgitbr \<p1\>
 * Parameter 1: name of branch \(no spaces\)
 * Note: deletes branch then checks out and creates branch again.
+
+# Useful Resources
+* [Dos Tips](http://www.dostips.com/DtTutoFunctions.php)
+* [Git Branching](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely)
+* [Adding Repo From Command Line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
